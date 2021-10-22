@@ -1,0 +1,77 @@
+1)What  is dictionary?
+Python dictionary is one of the supported data types in Python. It is an unordered collection of elements. 
+The elements in dictionaries are stored as key–value pairs. Dictionaries are indexed by keys.
+
+2). What are functions in Python?
+A function is a block of code which is executed only when a call is made to the function. def keyword is used to define a particular function as shown below:
+
+def function():
+print("Hi, Welcome to Intellipaat"
+function(); # call to the function
+
+3) What are the common built-in data types in Python?
+Python supports the below-mentioned built-in data types:
+
+Immutable data types:
+
+Number
+String
+Tuple
+Mutable data types:
+
+List
+Dictionary
+set
+
+
+What is type conversion in Python?
+Python provides you with a much needed functionality of converting one form of data type into the  needed one and this is known as type conversion.
+
+Type Conversion is classified into types:
+
+1.Implicit Type Conversion: In this form of Type conversion python interpreter helps in automatically converting the data type into another data type without any User involvement.
+
+2.Explicit Type Conversion: In this  form of Type conversion the data  type inn changed into a required type by the user.
+
+Various Functions of explicit conversion are show below:
+
+int() –  function converts any data type into integer.
+float() –   function converts any data type into float.
+ord() –   function converts characters into integer.
+
+
+
+ Is python case sensitive?
+Yes,Python is a case sensitive language.This means that Function and function both are different in python alike SQL and Pascal.
+
+
+ What does [::-1] do?
+[::-1] ,this is an example of slice notation and helps to reverse the sequence with the help of indexing.
+
+[Start,stop,step count]
+
+Let’s understand with an example of an array:
+
+
+
+. Is indentation required in Python?
+Indentation in Python is compulsory and is part of its syntax.
+
+All programming languages have some way of defining the scope and extent of the block of codes. In Python, it is indentation. Indentation provides better readability to the code, which is probably why Python has made it compulsory.
+
+
+
+How does break, continue, and pass work?
+These statements help to change the phase of execution from the normal flow that is why they are termed loop control statements.
+
+Python break: This statement helps terminate the loop or the statement and pass the control to the next statement.
+
+Python continue: This statement helps force the execution of the next iteration when a specific condition meets, instead of terminating it.
+
+Python pass: This statement helps write the code syntactically and wants to skip the execution. It is also considered a null operation as nothing happens when you execute the pass statemen
+
+
+
+ What type of language is python? Programming or scripting?
+Generally, Python is an all purpose Programming Language ,in addition to that Python is also Capable to perform scripting.
+
