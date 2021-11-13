@@ -1,0 +1,49 @@
+CREATE DATABASE test;
+
+CREATE TABLE Stud(roll int,FN varchar(50),LN varchar);
+
+#to enter the database
+USE test;
+CREATE TABLE Stud(roll int,FN varchar(50),LN varchar);
+
+#to show tables
+show tables;
+
+google sql datatypes
+
+INSERT INTO stud(roll,FN,LN) VALUES((1,"Bharati","Reddy"),(2,"Ram","Gupta"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREATE TABLE student(
+	roll_no INT AUTO_INCREMENT, 
+	name VARCHAR(100) NOT NULL,
+	birthdate DATE,
+	marks FLOAT,
+	PRIMARY KEY(roll_no)
+);
+
+INSERT INTO 
+	student(name, birthdate,marks)
+VALUES
+	('AI','2019-08-01',90.10),
+	('MLs','2019-05-15',70);
+
+SELECT * FROM student;
+SELECT roll_no,name;
+
+
+
+
+SOURCE C:\Users\91831\Downloads\create_mavenmovies.sql
+SELECT * FROM rental LIMIT 5;
